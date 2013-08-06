@@ -1,4 +1,5 @@
 File Handler
-  Driectory + File Name + Extention Listing
-  Deduplication
+
+    Driectory + File Name + Extention Listing
+    Deduplication
   
